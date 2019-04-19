@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_label1">Smileys</string>
+    <string name="tab_label2">Sport</string>
+    <string name="tab_label3">Food</string>
+    <string name="happy">Happy Smiley</string>
+    <string name="cool_smiley">Cool smiley</string>
+    <string name="surprised">Surprised smiley</string>
+    <string name="nerd_smiley">Nerd Smiley</string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+    <string name="baseball">Baseball</string>
+    <string name="bowling">Bowling</string>
+    <string name="cricket">Cricket</string>
+    <string name="golf">Golf</string>
+    <string name="ice_hockey">Ice Hockey</string>
+    <string name="go_kart">Go Kart</string>
+    <string name="tennis">Tennis</string>
+    <string name="salad">Salad</string>
+    <string name="pizza">Pizza</string>
+    <string name="pie">Pie</string>
+    <string name="spaghetti">Spaghetti</string>
+</resources>
