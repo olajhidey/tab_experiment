@@ -23,4 +23,72 @@
     <string name="pizza">Pizza</string>
     <string name="pie">Pie</string>
     <string name="spaghetti">Spaghetti</string>
+    <string name="image_holder">image holder</string>
+
+    <string-array name="smiley_name">
+        <item>Happy</item>
+        <item>Cool</item>
+        <item>Nerd</item>
+        <item>Sick</item>
+        <item>Surprised</item>
+    </string-array>
+
+    <string-array name="sport_name">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Boxing</item>
+        <item>Bowling</item>
+        <item>Cricket</item>
+        <item>Golf</item>
+        <item>Go kart</item>
+        <item>Skateboard</item>
+        <item>Volleyball</item>
+    </string-array>
+
+    <string-array name="food_name">
+        <item>Cheese</item>
+        <item>Spaugetti</item>
+        <item>Pie</item>
+        <item>Rice</item>
+        <item>Salad</item>
+        <item>Pizza</item>
+        <item>Taco</item>
+        <item>Potato</item>
+        <item>Turkey</item>
+    </string-array>
+
+    <array name="smiley_images">
+        <item>@drawable/happy</item>
+        <item>@drawable/cool</item>
+        <item>@drawable/nerd</item>
+        <item>@drawable/sick</item>
+        <item>@drawable/surprised</item>
+    </array>
+
+    <array name="sport_images">
+        <item>@drawable/football</item>
+        <item>@drawable/basketball</item>
+        <item>@drawable/baseball</item>
+        <item>@drawable/boxing</item>
+        <item>@drawable/bowling</item>
+        <item>@drawable/cricket</item>
+        <item>@drawable/golf</item>
+        <item>@drawable/gokart</item>
+        <item>@drawable/skateboard</item>
+        <item>@drawable/volleyball</item>
+
+    </array>
+
+    <array name="food_images">
+        <item>@drawable/cheese</item>
+        <item>@drawable/spaguetti</item>
+        <item>@drawable/pie</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/salad</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/taco</item>
+        <item>@drawable/potatoes</item>
+        <item>@drawable/turkey</item>
+    </array>
 </resources>

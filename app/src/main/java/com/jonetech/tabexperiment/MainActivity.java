@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         fTabLayout.addTab(fTabLayout.newTab().setText(R.string.tab_label1));
         fTabLayout.addTab(fTabLayout.newTab().setText(R.string.tab_label2));
         fTabLayout.addTab(fTabLayout.newTab().setText(R.string.tab_label3));
+        
 
         // set tab to fill the entire layout
         fTabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
